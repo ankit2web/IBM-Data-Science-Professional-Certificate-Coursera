@@ -1,0 +1,2 @@
+IBM Watson Studio : http://cocl.us/DSX_DS0105_Coursera
+Jupyter Markdown Cheatsheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
